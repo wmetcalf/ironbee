@@ -30,4 +30,4 @@ If you would like to take a look at the developer docs, then:
   # NOTE: doxygen and graphviz required
   make doxygen
 
-  And take a look at those docs in docs/doxygen/html/index.html
+   And take a look at those docs in docs/doxygen/html/index.html
